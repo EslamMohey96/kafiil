@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "377493536405",
+    "project_id": "kafiil-test",
+    "storage_bucket": "kafiil-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377493536405:android:01d31dd1b0a24c51f3259c",
+        "android_client_info": {
+          "package_name": "com.example.kafiil_test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDO1iiHY_pq9b_IlKCnhe4fc4MG9U8W_9c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
